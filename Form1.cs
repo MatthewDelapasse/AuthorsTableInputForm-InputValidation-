@@ -137,6 +137,7 @@ namespace AuthorsTableInputForm_InputValidation_
             }
             else if ((int)e.KeyChar == 13)
             {
+                //This sets its attention to the txtAuthorName
                 txtAuthorName.Focus();
             }
             else
