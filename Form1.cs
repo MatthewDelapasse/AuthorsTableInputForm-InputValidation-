@@ -1,4 +1,6 @@
-﻿/*
+﻿/* Matthew Delapasse
+ * 7/28/2021
+ * Purpose: Adding input validation to the Authors table input form
  */
 
 using System;
